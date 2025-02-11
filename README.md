@@ -1,6 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
-
 # CRYPTOFLEX - AN NFT MARKETPLACE
+
+Welcome to CryptoFlex - a cutting-edge NFT marketplace built on the Ethereum blockchain. This decentralized platform enables users to mint, buy, sell, and trade unique digital assets securely and efficiently.
+
+## About The Project
+
+CryptoFlex is a Web3.0 application that combines the power of:
+
+- **Ethereum Blockchain** - For secure, transparent transactions
+- **Solidity Smart Contracts** - Powering the core marketplace functionality
+- **Next.js** - Providing a modern, responsive front-end experience
+
+Our platform features:
+
+- Secure wallet integration
+- NFT minting capabilities
+- Real-time price tracking
+- Seamless buying and selling experience
+- Smart contract-based ownership verification
+- Gas-optimized transactions
+
+## Technical Stack
+
+- **Frontend**: Next.js, React, TailwindCSS
+- **Blockchain**: Ethereum, Solidity
+- **Smart Contract Development**: Hardhat
+- **Web3 Integration**: ethers.js
+- **File Storage**: IPFS
+
+Join us in revolutionizing the digital art marketplace with blockchain technology!
 
 First, run the development server:
 
